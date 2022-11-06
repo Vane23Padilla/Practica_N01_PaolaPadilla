@@ -1,0 +1,15 @@
+D:\Programacion Avanazada 2022\P1\Ejercicios_N1_PA\Ejercicio_17\bin\Debug\net6.0\Ejercicio_17.exe
+D:\Programacion Avanazada 2022\P1\Ejercicios_N1_PA\Ejercicio_17\bin\Debug\net6.0\Ejercicio_17.deps.json
+D:\Programacion Avanazada 2022\P1\Ejercicios_N1_PA\Ejercicio_17\bin\Debug\net6.0\Ejercicio_17.runtimeconfig.json
+D:\Programacion Avanazada 2022\P1\Ejercicios_N1_PA\Ejercicio_17\bin\Debug\net6.0\Ejercicio_17.dll
+D:\Programacion Avanazada 2022\P1\Ejercicios_N1_PA\Ejercicio_17\bin\Debug\net6.0\Ejercicio_17.pdb
+D:\Programacion Avanazada 2022\P1\Ejercicios_N1_PA\Ejercicio_17\obj\Debug\net6.0\Ejercicio_17.csproj.AssemblyReference.cache
+D:\Programacion Avanazada 2022\P1\Ejercicios_N1_PA\Ejercicio_17\obj\Debug\net6.0\Ejercicio_17.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion Avanazada 2022\P1\Ejercicios_N1_PA\Ejercicio_17\obj\Debug\net6.0\Ejercicio_17.AssemblyInfoInputs.cache
+D:\Programacion Avanazada 2022\P1\Ejercicios_N1_PA\Ejercicio_17\obj\Debug\net6.0\Ejercicio_17.AssemblyInfo.cs
+D:\Programacion Avanazada 2022\P1\Ejercicios_N1_PA\Ejercicio_17\obj\Debug\net6.0\Ejercicio_17.csproj.CoreCompileInputs.cache
+D:\Programacion Avanazada 2022\P1\Ejercicios_N1_PA\Ejercicio_17\obj\Debug\net6.0\Ejercicio_17.dll
+D:\Programacion Avanazada 2022\P1\Ejercicios_N1_PA\Ejercicio_17\obj\Debug\net6.0\refint\Ejercicio_17.dll
+D:\Programacion Avanazada 2022\P1\Ejercicios_N1_PA\Ejercicio_17\obj\Debug\net6.0\Ejercicio_17.pdb
+D:\Programacion Avanazada 2022\P1\Ejercicios_N1_PA\Ejercicio_17\obj\Debug\net6.0\Ejercicio_17.genruntimeconfig.cache
+D:\Programacion Avanazada 2022\P1\Ejercicios_N1_PA\Ejercicio_17\obj\Debug\net6.0\ref\Ejercicio_17.dll

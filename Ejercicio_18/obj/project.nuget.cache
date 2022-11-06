@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kuO52Il5C5C0U8X79GkcTlPSOfvclP0yJEvhDaG7Z5WgVM0/oDO9X0dphoBLPoTTPAWM+ZTZfA4CJZAwrvPfaQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programacion Avanazada 2022\\P1\\Ejercicios_N1_PA\\Ejercicio_18\\Ejercicio_18.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.azure.amqp\\2.5.12\\microsoft.azure.amqp.2.5.12.nupkg.sha512"
+  ],
+  "logs": []
+}

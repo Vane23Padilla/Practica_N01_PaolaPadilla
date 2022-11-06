@@ -1,0 +1,17 @@
+D:\Programacion Avanazada 2022\P1\Ejercicios_N1_PA\Ejercicio_19\bin\Debug\net6.0-windows\Ejercicio_19.exe
+D:\Programacion Avanazada 2022\P1\Ejercicios_N1_PA\Ejercicio_19\bin\Debug\net6.0-windows\Ejercicio_19.deps.json
+D:\Programacion Avanazada 2022\P1\Ejercicios_N1_PA\Ejercicio_19\bin\Debug\net6.0-windows\Ejercicio_19.runtimeconfig.json
+D:\Programacion Avanazada 2022\P1\Ejercicios_N1_PA\Ejercicio_19\bin\Debug\net6.0-windows\Ejercicio_19.dll
+D:\Programacion Avanazada 2022\P1\Ejercicios_N1_PA\Ejercicio_19\bin\Debug\net6.0-windows\Ejercicio_19.pdb
+D:\Programacion Avanazada 2022\P1\Ejercicios_N1_PA\Ejercicio_19\obj\Debug\net6.0-windows\Ejercicio_19.csproj.AssemblyReference.cache
+D:\Programacion Avanazada 2022\P1\Ejercicios_N1_PA\Ejercicio_19\obj\Debug\net6.0-windows\Ejercicio_19.Form1.resources
+D:\Programacion Avanazada 2022\P1\Ejercicios_N1_PA\Ejercicio_19\obj\Debug\net6.0-windows\Ejercicio_19.csproj.GenerateResource.cache
+D:\Programacion Avanazada 2022\P1\Ejercicios_N1_PA\Ejercicio_19\obj\Debug\net6.0-windows\Ejercicio_19.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion Avanazada 2022\P1\Ejercicios_N1_PA\Ejercicio_19\obj\Debug\net6.0-windows\Ejercicio_19.AssemblyInfoInputs.cache
+D:\Programacion Avanazada 2022\P1\Ejercicios_N1_PA\Ejercicio_19\obj\Debug\net6.0-windows\Ejercicio_19.AssemblyInfo.cs
+D:\Programacion Avanazada 2022\P1\Ejercicios_N1_PA\Ejercicio_19\obj\Debug\net6.0-windows\Ejercicio_19.csproj.CoreCompileInputs.cache
+D:\Programacion Avanazada 2022\P1\Ejercicios_N1_PA\Ejercicio_19\obj\Debug\net6.0-windows\Ejercicio_19.dll
+D:\Programacion Avanazada 2022\P1\Ejercicios_N1_PA\Ejercicio_19\obj\Debug\net6.0-windows\refint\Ejercicio_19.dll
+D:\Programacion Avanazada 2022\P1\Ejercicios_N1_PA\Ejercicio_19\obj\Debug\net6.0-windows\Ejercicio_19.pdb
+D:\Programacion Avanazada 2022\P1\Ejercicios_N1_PA\Ejercicio_19\obj\Debug\net6.0-windows\Ejercicio_19.genruntimeconfig.cache
+D:\Programacion Avanazada 2022\P1\Ejercicios_N1_PA\Ejercicio_19\obj\Debug\net6.0-windows\ref\Ejercicio_19.dll
